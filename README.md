@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
 | ------- |
@@ -74,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
