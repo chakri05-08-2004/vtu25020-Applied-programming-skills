@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0735-asteroid-collision) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -114,4 +117,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
