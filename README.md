@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -31,5 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/chakri05-08-2004/vtu25020-Applied-programming-skills/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
